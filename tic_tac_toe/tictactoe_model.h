@@ -1,0 +1,4 @@
+#ifndef TICTACTOE_MODEL_H
+#define TICTACTOE_MODEL_H
+
+#endif // TICTACTOE_MODEL_H
